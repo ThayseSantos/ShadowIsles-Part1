@@ -12,4 +12,4 @@
 - *O CSS ajuda-nos a estilizar a página marcada pelo CSS. Com esta tecnologia, páginas simples apenas com o escopo marcado transformam-se em layouts que facilitam e aprimoram o visual do site. Neste projeto em específico, podemos observar o uso de um menu responsivo, overlay, gradients, keyframes e transform scale, além da responsividade.*</p>
 
 ## 🍃JAVASCRIPT
-- *O Javascript, neste projeto, fora utilizado sobre a barra de navegação lateral. Assim como observado, a lógica do código demonstrou como esconder e mostrar o navbar através do clique na imagem lateral.*
+- *O Javascript fora utilizado sobre a barra de navegação lateral. Assim como observado, a lógica do código demonstrou como esconder e mostrar o navbar através do clique na imagem lateral.*
